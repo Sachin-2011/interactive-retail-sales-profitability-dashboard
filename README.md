@@ -8,6 +8,8 @@ An interactive executive dashboard built in Microsoft Excel to analyze **1,951 r
 
 High sales numbers don't always guarantee healthy margins. Rather than relying on static spreadsheets, this project transforms raw order-level data into a dynamic, macro-free self-service Business Intelligence (BI) tool. By wiring four dedicated Pivot Tables to interactive Slicers, stakeholders can slice regional performance, fulfillment reliance, and product-level profit leaks in seconds.
 
+<img width="2206" height="993" alt="IMG20261105133319" src="https://github.com/user-attachments/assets/38361d8f-5b1a-4940-9501-f0a20795374a" />
+
 ---
 
 ## 📊 Key Analytical Findings
