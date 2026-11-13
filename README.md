@@ -41,3 +41,20 @@ High sales numbers don't always guarantee healthy margins. Rather than relying o
 ├── Dashbaord Analysis.xlsx   # Complete Excel workbook (Pivot Tables + Interactive Dashboard)
 ├── dashboard-preview.png     # Screenshot of the interactive dashboard view
 └── README.md                 # Project documentation and key insights
+
+🚀 How to Use
+Download Dashbaord Analysis.xlsx and open it in Microsoft Excel (Desktop or Excel for the Web).
+
+Navigate to the Dashboard worksheet.
+
+Click any filter button inside the Ship Mode, Customer Segment, or Product Category Slicers to dynamically update all four charts.
+
+Click the Clear Filter icon in the top-right corner of any slicer to reset the view.
+
+👤 Author
+Sachin Rajak
+
+Data Analyst | Business Intelligence · SQL · Excel · Power BI · Google Cloud Data Analytics
+
+
+*(Tip: Save a high-resolution PNG screenshot of your `Dashboard` tab as `dashboard-preview.png` i
